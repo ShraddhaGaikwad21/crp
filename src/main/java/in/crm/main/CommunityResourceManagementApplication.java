@@ -8,6 +8,7 @@ public class CommunityResourceManagementApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(CommunityResourceManagementApplication.class, args);
+		
 	}
 
 }
