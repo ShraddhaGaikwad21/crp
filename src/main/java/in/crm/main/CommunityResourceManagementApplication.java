@@ -10,7 +10,7 @@ public class CommunityResourceManagementApplication {
 		SpringApplication.run(CommunityResourceManagementApplication.class, args);
 
 
-		//
+		/// /
 	}
 
 }
